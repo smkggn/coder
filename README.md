@@ -49,6 +49,7 @@
 ### 技术站点
 
 - 在线学习：[Coursera](https://www.coursera.org/)、[edX](https://www.edx.org/)、[Udacity](https://cn.udacity.com/)、[MIT公开课](https://ocw.mit.edu/index.htm)、[MOOC学院](http://mooc.guokr.com/course/)、[慕课网](http://www.imooc.com/)
+- [资料星球](https://resources.packscena.com/)：中文学习与创作资料目录，包含 AI 与编程等主题；可预览资料目录，领取时跳转相应网盘。
 - [Hacker News](https://news.ycombinator.com/)：非常棒的针对编程的链接聚合网站
 - [Techmeme](https://www.techmeme.com/)：美国知名科技新闻和博客聚集网站，类似的还有（Panda, Hacker & Designer News）
 - [Reddit - Programming板块](https://www.reddit.com/r/programming/)：同上
